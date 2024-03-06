@@ -1,0 +1,55 @@
+.b{
+    padding: 0;
+    font-family:Helvetica, Arial, Georgia, Tahoma;
+    text-align:center;
+    font-size:large;
+    text-wrap:stable;
+   
+    
+
+}
+.hclass{
+    color: rgb(238, 255, 0);
+    background-color:aliceblue;
+    text-align: center;
+    font-family:cursive;
+    
+    
+    
+
+}
+.eclass{
+    text-align:center;
+    text-decoration: solid;
+    background-color: aliceblue;
+    color: rgb(42, 165, 153);
+
+}
+
+.lkclass{
+    font-size: xx-large;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+background-color: rgb(255, 255, 255);
+color: coral;
+
+
+
+}
+
+.imgclass{
+    display:block;
+    margin-left: auto;
+    float:left;
+ 
+}
+.img1{
+    display: block;
+    margin-right: auto;
+    float: left;
+}
+.ol{
+    font-size:large;
+    text-align: justify;
+    font-style: italic;
+    color: rgb(176, 235, 28);
+}
