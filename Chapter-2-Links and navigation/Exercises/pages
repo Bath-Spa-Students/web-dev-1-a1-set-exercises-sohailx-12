@@ -1,1 +1,18 @@
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1> This is a Home Page</h1>
+      <nav>
+        <ul >
+           <li><a href="pages/insight.html">insight </a> </li>
+            <li><a href="pages/overview.html">Overview </a></li>
+            <li><a href="pages/cast.html">Cast & Creative Team </a>
+        </ul>
+    </nav>
+</body>
+</html>
