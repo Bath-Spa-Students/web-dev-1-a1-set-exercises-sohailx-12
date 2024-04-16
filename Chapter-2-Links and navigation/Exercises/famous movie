@@ -1,1 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Money heist</title>
+    <link rel="stylesheet" href="m.css">
+</head>
+<body>
+    <h1>Money heist</h1>
+    <nav>
+        <ul>
+           <li><a href="pages/insight.html"> Insight </a> </li>
+            <li><a href="pages/overview.html">Overview </a></li>
+            <li><a href="pages/cast.html">Cast </a>
+        </ul>
+    </nav>
 
+
+<h2 id = "insight"> Insight </h2>
+    
+<p> A criminal mastermind who goes by "The Professor" has a plan to pull off the biggest heist in recorded history to print billions of euros in the Royal Mint of Spain.To help him carry out the ambitious plan, he recruits eight people with certain abilities and who have nothing to lose.The group of thieves take hostages to aid in their negotiations with the authorities, who strategize to come up with a way to capture The Professor.As more time elapses, the robbers prepare for a showdown with the police.</p>
+    
+<h2 id="overview">External knowledge </h2>
+<div class="g">
+    <h3> How was it desgin? </h3>
+    To make the plot more realistic, the producers requested and received advice from the national police, civil guard, and the Spanish Ministry of Interior The robbers' banknotes were printed with permission of the Bank of Spain and had an increased size as an anti-counterfeit measure.
+</div>
+
+<h2>Ratings</h2>
+<div class="g">
+   <h3> Shocking to know that!</h3>
+    After the move to Netflix, the series remained the most-followed series on Netflix for six consecutive weeks and became one of the most popular series on IMDb. It regularly trended on Twitter world-wide, largely because celebrities commented on it, such as football players Neymar and Marc Bartra, American singer Romeo Santos, and author Stephen King.
+</div>
+
+<h2 id="cast"> Cast </h2>
+<div class="g">
+    <h3> The following were the team of the great series</h3>
+    <ol>
+        <li>Úrsula Corberó</li>
+        <li>Álvaro Morte</li>
+        <li>Itziar Ituño</li>
+        <li>Pedro Alonso</li>
+        <li>Paco Tous</li>
+    </ol>
+</div>
+
+<a href=https://www.rottentomatoes.com/tv/money_heist#:~:text=Fresh%20audience%20score.&text=A%20criminal%20mastermind%20who%20goes,who%20have%20nothing%20to%20lose. target="_blank"><button>Watch it here!</button></a>
+
+
+
+
+</body>
+</html>
