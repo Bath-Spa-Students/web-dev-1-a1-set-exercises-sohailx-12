@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Petrol calculator</title>
+    <link rel="stylesheet" href="style.css">
+    <!-- linking the javascript file -->
+    <script src="petrol.js"></script>
+</head>
+<body>
+    <!--adding div acording to the page -->
+    <div class="lih">
+        <h1>This is a Petrol calculator </h1>
+        <div>
+            <!--creating labels for calculator-->
+            <label for="costperliter">Cost per Liter (in AED): </label>
+            <input type="number" id="costperliter" step="0.01" value="2.92" min="0">
+        </div>
+        <div>
+            <label for="liters">Liters:</label>
+            <input type="number" id="liters" step="0.01" value="0" min="0">
+        </div>
+        <div>
+            <!--adding button which is able to hover -->
+            <button id="button"> Calculate the total amount </button>
+            <!--id is looking for total amount in javascript file -->
+            <p id="totalamount"></p>
+        </div>
+    </div>
+    
+</body>
+</html>
